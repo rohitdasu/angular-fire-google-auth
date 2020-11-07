@@ -1,0 +1,28 @@
+.main-header{
+    font-family: cursive;
+    font-size: xx-large;
+    color: #DFF0EA;
+    display: flex;
+}
+
+.button-signin{
+    bottom: 30px;
+    display: block;
+    width: 100%;
+    position: absolute;
+}
+
+.currency{
+    transform: rotate(20deg);
+}
+
+.photo{
+    top: 25%;
+    display: block;
+    width: 100%;
+    position: absolute;
+}
+
+ion-content{
+    --background: linear-gradient(90deg, #00d2ff 0%, #3a47d5 100%);
+}
